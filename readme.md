@@ -4,7 +4,7 @@ Inspired by the GenXGrownUp short video at https://www.youtube.com/shorts/2NThBg
 
 The unused grasshopper sprite becomes active.  
 
-The grasshopper has 50% chance of appearing instead of the spider. It occupies the lower section he screen and has its own unique sound.
+The grasshopper has 50% chance of appearing instead of the spider. It occupies the lower section of the screen and has its own unique sound and movement.
 
 Tested with latest MAME version 0.254
 
