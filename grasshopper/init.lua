@@ -1,8 +1,10 @@
 -- Grasshopper plugin for Centipede 
 -- by Jon Wilson (10yard)
 --
+-- Inspired by the GenXGrownUp short video at https://www.youtube.com/shorts/2NThBgP-mlc
 -- The unused grasshopper sprite becomes active.  
--- The grasshopper occupies a lower area of the screen to the spider and has its own sound.
+--
+-- The grasshopper has 50% chance of appearing instead of the spider. It occupies the lower section he screen and has its own unique sound.
 --
 -- Tested with latest MAME version 0.254
 -- Compatible with MAME versions from 0.241
